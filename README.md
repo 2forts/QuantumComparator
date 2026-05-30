@@ -11,6 +11,10 @@
 
 Se incluyen en este repositorio prototipos de los circuitos estudiados en mi Trabajo Final de Máster. 
 
+Este trabajo se envió, en versión extendida, a la revista IEEE Transactions on Computers. Fue publicado en 2025:
+
+'Orts, F., & Gil-Merino, R. (2025). A Framework for Quantum Circuit Optimization: Comparators as a Case Study. IEEE Transactions on Computers, 75(2), 706-719.'
+
 ## Referencias
 Li, H., Fan, P., Xia, H.-Y., Peng, H., & Long, G.-L. (2020). Efficient quantum arithmetic operation circuits for quantum image processing. Science China Physics, Mechanics & Astronomy, 63, 1-13.
 
